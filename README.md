@@ -2,6 +2,9 @@
 
 This repository contains my solutions to various LeetCode problems implemented in C++.
 
+## My leetcode profile:
+https://leetcode.com/AbdallahHossam-Eldin/
+
 # Purpose
 The purpose of this repository is to improve my problem-solving skills in C++ and track my progress over time. By solving LeetCode problems, I hope to gain a better understanding of algorithms and data structures, as well as improve my ability to write clean and efficient code.
 
